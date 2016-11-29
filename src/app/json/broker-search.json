@@ -1,0 +1,18 @@
+[
+    {
+        "brokerId": "1",        	
+        "brokerName": "SUPERSTAR TICKETS",		
+        "cityName": "ARLINGTON",
+        "stateName": "VIRGINIA",
+        "stateNameShort": "VA",
+		"countryName": "USA"	
+    },
+    {
+        "brokerId": "2",        	
+        "brokerName": "SUPERSTAR TICKETS",		
+        "cityName": "ARLINGTON",
+        "stateName": "VIRGINIA",
+        "stateNameShort": "VA",
+		"countryName": "USA"	
+    }
+]

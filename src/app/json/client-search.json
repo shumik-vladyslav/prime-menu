@@ -1,0 +1,22 @@
+[
+    {
+        "clientId": "1",       
+        "firstName": "Jane",
+        "lastName": "Joe",
+        "address": "123 ANYWHERE ST",
+        "cityName": "NEW YORK",
+        "stateName": "NEW YORK",
+        "stateNameShort": "NY",
+       "countryName": "USA"	
+    },
+    {
+        "clientId": "2",       
+        "firstName": "Jane",
+        "lastName": "Joe",
+        "address": "123 ANYWHERE ST",
+        "cityName": "NEW YORK",
+        "stateName": "NEW YORK",
+        "stateNameShort": "NY",
+        "countryName": "USA"	
+    }	
+]

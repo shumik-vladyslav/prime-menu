@@ -1,2 +1,10 @@
-<h3>Home Component</h3>
-<p>Welcome to Angular Seed</p>
+<input [(ngModel)]="searchModel" (ngModelChange)="search($event)">
+<p-treeTable *ngIf="data" [value]="data">
+  <p-column field="firstName" header=""></p-column>
+  <p-column field="lastName" header=""></p-column>
+  <p-column field="eventName" header=""></p-column>
+  <p-column field="dateTime" header=""></p-column>
+  <p-column field="venueName" header=""></p-column>
+  <p-column field="cityName" header=""></p-column>
+  <p-column field="stateNameShort" header=""></p-column>
+</p-treeTable>

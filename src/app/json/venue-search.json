@@ -1,0 +1,18 @@
+[
+    {
+        "venueId": "1",        	
+        "venueName": "DODGERS STADIUM",		
+        "cityName": "LOS ANGELES",
+        "stateName": "CALIFORNIA",
+        "stateNameShort": "CA",
+		"countryName": "USA"	
+    },
+	{
+        "venueId": "2",        
+        "venueName": "DODGERS STADIUM",
+        "cityName": "LOS ANGELES",
+        "stateName": "CALIFORNIA",
+        "stateNameShort": "CA",
+        "countryName": "USA"        
+    }	
+]

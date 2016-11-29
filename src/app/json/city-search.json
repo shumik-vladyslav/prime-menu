@@ -1,0 +1,17 @@
+[
+    {
+        "cityId": "1",       
+        "cityName": "LOS ANGELES",
+        "stateName": "CALIFORNIA",
+        "stateNameShort": "CA",
+        "countryName": "USA"			
+    },
+	{
+        "cityId": "2",        
+        "cityName": "NEW YORK",
+        "stateName": "NEW YORK",
+        "stateNameShort": "NY",
+        "countryName": "USA"        
+    }
+	
+]

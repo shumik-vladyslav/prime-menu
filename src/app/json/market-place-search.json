@@ -1,0 +1,18 @@
+[
+    {
+        "marketPlaceId": "1",        	
+        "marketPlaceName": "SUPERSTAR TICKETS",		
+        "cityName": "ARLINGTON",
+        "stateName": "VIRGINIA",
+        "stateNameShort": "VA",
+		"countryName": "USA"	
+    },
+    {
+        "marketPlaceId": "2",        	
+        "marketPlaceName": "SUPERSTAR TICKETS",		
+        "cityName": "ARLINGTON",
+        "stateName": "VIRGINIA",
+        "stateNameShort": "VA",
+        "countryName": "USA"	
+    }
+]
